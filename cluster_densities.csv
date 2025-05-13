@@ -1,0 +1,865 @@
+Algorithm,Cluster,Cancer Type,Proportion
+kmeans,16,adrenocortical cancer,95.0
+kmeans,16,pheochromocytoma & paraganglioma,5.0
+kmeans,18,adrenocortical cancer,0.5195
+kmeans,18,bladder urothelial carcinoma,3.6364
+kmeans,18,uterine corpus endometrioid carcinoma,0.2597
+kmeans,18,skin cutaneous melanoma,2.5974
+kmeans,18,head & neck squamous cell carcinoma,1.039
+kmeans,18,pancreatic adenocarcinoma,0.2597
+kmeans,18,sarcoma,61.2987
+kmeans,18,kidney clear cell carcinoma,1.039
+kmeans,18,liver hepatocellular carcinoma,1.039
+kmeans,18,breast invasive carcinoma,1.2987
+kmeans,18,uterine carcinosarcoma,0.2597
+kmeans,18,glioblastoma multiforme,0.5195
+kmeans,18,kidney chromophobe,0.5195
+kmeans,18,lung adenocarcinoma,0.5195
+kmeans,18,mesothelioma,22.0779
+kmeans,18,colon adenocarcinoma,0.2597
+kmeans,18,esophageal carcinoma,0.5195
+kmeans,18,stomach adenocarcinoma,2.3377
+kmeans,31,adrenocortical cancer,0.107
+kmeans,31,bladder urothelial carcinoma,7.7005
+kmeans,31,head & neck squamous cell carcinoma,52.9412
+kmeans,31,cervical & endocervical cancer,29.8396
+kmeans,31,lung squamous cell carcinoma,2.4599
+kmeans,31,breast invasive carcinoma,0.3209
+kmeans,31,esophageal carcinoma,5.6684
+kmeans,31,uterine corpus endometrioid carcinoma,0.107
+kmeans,31,stomach adenocarcinoma,0.8556
+kmeans,17,bladder urothelial carcinoma,98.452
+kmeans,17,kidney papillary cell carcinoma,1.2384
+kmeans,17,lung squamous cell carcinoma,0.3096
+kmeans,0,bladder urothelial carcinoma,2.0548
+kmeans,0,uterine corpus endometrioid carcinoma,0.6849
+kmeans,0,skin cutaneous melanoma,0.1712
+kmeans,0,head & neck squamous cell carcinoma,9.9315
+kmeans,0,pancreatic adenocarcinoma,0.1712
+kmeans,0,cervical & endocervical cancer,1.8836
+kmeans,0,lung squamous cell carcinoma,73.9726
+kmeans,0,breast invasive carcinoma,0.1712
+kmeans,0,lung adenocarcinoma,1.8836
+kmeans,0,thymoma,1.5411
+kmeans,0,esophageal carcinoma,7.363
+kmeans,0,stomach adenocarcinoma,0.1712
+kmeans,7,bladder urothelial carcinoma,0.9146
+kmeans,7,uterine corpus endometrioid carcinoma,81.5549
+kmeans,7,skin cutaneous melanoma,0.1524
+kmeans,7,head & neck squamous cell carcinoma,0.3049
+kmeans,7,sarcoma,3.0488
+kmeans,7,cervical & endocervical cancer,2.1341
+kmeans,7,lung squamous cell carcinoma,0.9146
+kmeans,7,breast invasive carcinoma,0.6098
+kmeans,7,uterine carcinosarcoma,8.3841
+kmeans,7,lung adenocarcinoma,0.6098
+kmeans,7,ovarian serous cystadenocarcinoma,1.2195
+kmeans,7,esophageal carcinoma,0.1524
+kmeans,10,bladder urothelial carcinoma,0.4274
+kmeans,10,skin cutaneous melanoma,97.0085
+kmeans,10,head & neck squamous cell carcinoma,0.2137
+kmeans,10,pancreatic adenocarcinoma,0.2137
+kmeans,10,sarcoma,1.0684
+kmeans,10,lung squamous cell carcinoma,0.2137
+kmeans,10,glioblastoma multiforme,0.2137
+kmeans,10,thymoma,0.2137
+kmeans,10,cholangiocarcinoma,0.2137
+kmeans,10,esophageal carcinoma,0.2137
+kmeans,27,bladder urothelial carcinoma,0.2928
+kmeans,27,uterine corpus endometrioid carcinoma,0.4392
+kmeans,27,pancreatic adenocarcinoma,25.9151
+kmeans,27,sarcoma,0.2928
+kmeans,27,cervical & endocervical cancer,0.2928
+kmeans,27,colon adenocarcinoma,1.0249
+kmeans,27,lung squamous cell carcinoma,0.2928
+kmeans,27,liver hepatocellular carcinoma,0.2928
+kmeans,27,lung adenocarcinoma,0.1464
+kmeans,27,pheochromocytoma & paraganglioma,0.1464
+kmeans,27,testicular germ cell tumor,0.1464
+kmeans,27,cholangiocarcinoma,0.5857
+kmeans,27,esophageal carcinoma,12.5915
+kmeans,27,stomach adenocarcinoma,57.3939
+kmeans,27,ovarian serous cystadenocarcinoma,0.1464
+kmeans,1,bladder urothelial carcinoma,0.1517
+kmeans,1,pancreatic adenocarcinoma,0.4552
+kmeans,1,cervical & endocervical cancer,0.3035
+kmeans,1,colon adenocarcinoma,67.6783
+kmeans,1,rectum adenocarcinoma,24.2792
+kmeans,1,esophageal carcinoma,1.3657
+kmeans,1,stomach adenocarcinoma,5.7663
+kmeans,29,diffuse large B-cell lymphoma,97.9592
+kmeans,29,stomach adenocarcinoma,2.0408
+kmeans,25,uterine corpus endometrioid carcinoma,7.0988
+kmeans,25,cervical & endocervical cancer,0.3086
+kmeans,25,ovarian serous cystadenocarcinoma,92.284
+kmeans,25,uterine carcinosarcoma,0.3086
+kmeans,4,skin cutaneous melanoma,0.0983
+kmeans,4,head & neck squamous cell carcinoma,0.59
+kmeans,4,breast invasive carcinoma,99.2134
+kmeans,4,thymoma,0.0983
+kmeans,24,skin cutaneous melanoma,5.814
+kmeans,24,brain lower grade glioma,1.1628
+kmeans,24,uveal melanoma,93.0233
+kmeans,9,skin cutaneous melanoma,0.3067
+kmeans,9,sarcoma,0.1534
+kmeans,9,lung squamous cell carcinoma,13.4969
+kmeans,9,lung adenocarcinoma,85.5828
+kmeans,9,mesothelioma,0.3067
+kmeans,9,stomach adenocarcinoma,0.1534
+kmeans,3,prostate adenocarcinoma,100.0
+kmeans,28,prostate adenocarcinoma,6.3063
+kmeans,28,kidney papillary cell carcinoma,10.8108
+kmeans,28,kidney clear cell carcinoma,11.7117
+kmeans,28,testicular germ cell tumor,71.1712
+kmeans,12,kidney papillary cell carcinoma,93.8849
+kmeans,12,kidney clear cell carcinoma,6.1151
+kmeans,5,kidney papillary cell carcinoma,1.2295
+kmeans,5,kidney clear cell carcinoma,98.7705
+kmeans,13,kidney papillary cell carcinoma,26.9504
+kmeans,13,sarcoma,0.7092
+kmeans,13,kidney clear cell carcinoma,51.773
+kmeans,13,kidney chromophobe,20.5674
+kmeans,19,kidney papillary cell carcinoma,2.5641
+kmeans,19,kidney clear cell carcinoma,20.5128
+kmeans,19,kidney chromophobe,76.9231
+kmeans,21,cervical & endocervical cancer,0.5435
+kmeans,21,breast invasive carcinoma,98.913
+kmeans,21,esophageal carcinoma,0.5435
+kmeans,26,colon adenocarcinoma,80.3922
+kmeans,26,rectum adenocarcinoma,19.6078
+kmeans,8,rectum adenocarcinoma,0.2179
+kmeans,8,kidney clear cell carcinoma,0.2179
+kmeans,8,liver hepatocellular carcinoma,90.8497
+kmeans,8,cholangiocarcinoma,8.7146
+kmeans,20,breast invasive carcinoma,100.0
+kmeans,6,glioblastoma multiforme,24.212
+kmeans,6,brain lower grade glioma,75.788
+kmeans,2,thyroid carcinoma,100.0
+kmeans,30,thyroid carcinoma,100.0
+kmeans,15,pheochromocytoma & paraganglioma,100.0
+kmeans,14,testicular germ cell tumor,100.0
+kmeans,22,thymoma,100.0
+kmeans,23,thymoma,100.0
+kmeans,11,acute myeloid leukemia,100.0
+gmm,16,adrenocortical cancer,95.0
+gmm,16,pheochromocytoma & paraganglioma,5.0
+gmm,18,adrenocortical cancer,0.5168
+gmm,18,bladder urothelial carcinoma,3.6176
+gmm,18,uterine corpus endometrioid carcinoma,0.2584
+gmm,18,skin cutaneous melanoma,2.584
+gmm,18,head & neck squamous cell carcinoma,1.0336
+gmm,18,pancreatic adenocarcinoma,0.2584
+gmm,18,sarcoma,61.2403
+gmm,18,kidney clear cell carcinoma,1.0336
+gmm,18,liver hepatocellular carcinoma,1.0336
+gmm,18,breast invasive carcinoma,1.5504
+gmm,18,uterine carcinosarcoma,0.2584
+gmm,18,glioblastoma multiforme,0.5168
+gmm,18,kidney chromophobe,0.5168
+gmm,18,lung adenocarcinoma,0.5168
+gmm,18,mesothelioma,21.9638
+gmm,18,colon adenocarcinoma,0.2584
+gmm,18,esophageal carcinoma,0.5168
+gmm,18,stomach adenocarcinoma,2.3256
+gmm,31,adrenocortical cancer,0.117
+gmm,31,bladder urothelial carcinoma,5.2632
+gmm,31,head & neck squamous cell carcinoma,55.7895
+gmm,31,cervical & endocervical cancer,32.6316
+gmm,31,lung squamous cell carcinoma,1.5205
+gmm,31,breast invasive carcinoma,0.3509
+gmm,31,esophageal carcinoma,3.3918
+gmm,31,uterine corpus endometrioid carcinoma,0.117
+gmm,31,stomach adenocarcinoma,0.8187
+gmm,17,bladder urothelial carcinoma,97.4504
+gmm,17,kidney papillary cell carcinoma,1.1331
+gmm,17,cervical & endocervical cancer,0.2833
+gmm,17,lung squamous cell carcinoma,0.5666
+gmm,17,esophageal carcinoma,0.2833
+gmm,17,stomach adenocarcinoma,0.2833
+gmm,0,bladder urothelial carcinoma,2.0505
+gmm,0,uterine corpus endometrioid carcinoma,0.6309
+gmm,0,skin cutaneous melanoma,0.1577
+gmm,0,head & neck squamous cell carcinoma,11.9874
+gmm,0,pancreatic adenocarcinoma,0.1577
+gmm,0,cervical & endocervical cancer,1.5773
+gmm,0,lung squamous cell carcinoma,69.5584
+gmm,0,breast invasive carcinoma,0.1577
+gmm,0,lung adenocarcinoma,1.735
+gmm,0,thymoma,1.4196
+gmm,0,esophageal carcinoma,10.4101
+gmm,0,stomach adenocarcinoma,0.1577
+gmm,7,bladder urothelial carcinoma,0.9188
+gmm,7,uterine corpus endometrioid carcinoma,81.7764
+gmm,7,skin cutaneous melanoma,0.1531
+gmm,7,head & neck squamous cell carcinoma,0.3063
+gmm,7,sarcoma,2.9096
+gmm,7,cervical & endocervical cancer,2.144
+gmm,7,lung squamous cell carcinoma,0.9188
+gmm,7,breast invasive carcinoma,0.4594
+gmm,7,uterine carcinosarcoma,8.4227
+gmm,7,lung adenocarcinoma,0.6126
+gmm,7,ovarian serous cystadenocarcinoma,1.2251
+gmm,7,esophageal carcinoma,0.1531
+gmm,10,bladder urothelial carcinoma,0.4274
+gmm,10,skin cutaneous melanoma,97.0085
+gmm,10,head & neck squamous cell carcinoma,0.2137
+gmm,10,pancreatic adenocarcinoma,0.2137
+gmm,10,sarcoma,1.0684
+gmm,10,lung squamous cell carcinoma,0.2137
+gmm,10,glioblastoma multiforme,0.2137
+gmm,10,thymoma,0.2137
+gmm,10,cholangiocarcinoma,0.2137
+gmm,10,esophageal carcinoma,0.2137
+gmm,27,bladder urothelial carcinoma,0.369
+gmm,27,uterine corpus endometrioid carcinoma,0.5535
+gmm,27,pancreatic adenocarcinoma,32.6568
+gmm,27,sarcoma,0.369
+gmm,27,cervical & endocervical cancer,0.1845
+gmm,27,colon adenocarcinoma,1.107
+gmm,27,lung squamous cell carcinoma,0.369
+gmm,27,liver hepatocellular carcinoma,0.369
+gmm,27,lung adenocarcinoma,0.1845
+gmm,27,pheochromocytoma & paraganglioma,0.1845
+gmm,27,testicular germ cell tumor,0.1845
+gmm,27,cholangiocarcinoma,0.738
+gmm,27,esophageal carcinoma,10.8856
+gmm,27,stomach adenocarcinoma,51.6605
+gmm,27,ovarian serous cystadenocarcinoma,0.1845
+gmm,1,bladder urothelial carcinoma,0.125
+gmm,1,pancreatic adenocarcinoma,0.375
+gmm,1,cervical & endocervical cancer,0.375
+gmm,1,colon adenocarcinoma,55.875
+gmm,1,rectum adenocarcinoma,20.0
+gmm,1,stomach adenocarcinoma,18.75
+gmm,1,esophageal carcinoma,4.5
+gmm,29,diffuse large B-cell lymphoma,97.9592
+gmm,29,stomach adenocarcinoma,2.0408
+gmm,25,uterine corpus endometrioid carcinoma,7.3846
+gmm,25,cervical & endocervical cancer,0.3077
+gmm,25,ovarian serous cystadenocarcinoma,92.0
+gmm,25,uterine carcinosarcoma,0.3077
+gmm,4,skin cutaneous melanoma,0.0983
+gmm,4,head & neck squamous cell carcinoma,0.59
+gmm,4,breast invasive carcinoma,99.2134
+gmm,4,thymoma,0.0983
+gmm,24,skin cutaneous melanoma,5.814
+gmm,24,brain lower grade glioma,1.1628
+gmm,24,uveal melanoma,93.0233
+gmm,9,skin cutaneous melanoma,0.3067
+gmm,9,sarcoma,0.1534
+gmm,9,lung squamous cell carcinoma,13.4969
+gmm,9,lung adenocarcinoma,85.5828
+gmm,9,mesothelioma,0.3067
+gmm,9,stomach adenocarcinoma,0.1534
+gmm,3,prostate adenocarcinoma,100.0
+gmm,28,prostate adenocarcinoma,6.3063
+gmm,28,kidney papillary cell carcinoma,10.8108
+gmm,28,kidney clear cell carcinoma,11.7117
+gmm,28,testicular germ cell tumor,71.1712
+gmm,12,kidney papillary cell carcinoma,93.8849
+gmm,12,kidney clear cell carcinoma,6.1151
+gmm,5,kidney papillary cell carcinoma,1.2295
+gmm,5,kidney clear cell carcinoma,98.7705
+gmm,13,kidney papillary cell carcinoma,26.9504
+gmm,13,sarcoma,0.7092
+gmm,13,kidney clear cell carcinoma,51.773
+gmm,13,kidney chromophobe,20.5674
+gmm,19,kidney papillary cell carcinoma,2.5641
+gmm,19,kidney clear cell carcinoma,20.5128
+gmm,19,kidney chromophobe,76.9231
+gmm,21,cervical & endocervical cancer,0.5435
+gmm,21,breast invasive carcinoma,98.913
+gmm,21,esophageal carcinoma,0.5435
+gmm,26,colon adenocarcinoma,80.3922
+gmm,26,rectum adenocarcinoma,19.6078
+gmm,8,rectum adenocarcinoma,0.2179
+gmm,8,kidney clear cell carcinoma,0.2179
+gmm,8,liver hepatocellular carcinoma,90.8497
+gmm,8,cholangiocarcinoma,8.7146
+gmm,20,breast invasive carcinoma,100.0
+gmm,6,glioblastoma multiforme,24.212
+gmm,6,brain lower grade glioma,75.788
+gmm,2,thyroid carcinoma,100.0
+gmm,30,thyroid carcinoma,100.0
+gmm,15,pheochromocytoma & paraganglioma,100.0
+gmm,14,testicular germ cell tumor,100.0
+gmm,22,thymoma,100.0
+gmm,23,thymoma,100.0
+gmm,11,acute myeloid leukemia,100.0
+dbscan,0,adrenocortical cancer,95.0
+dbscan,0,pheochromocytoma & paraganglioma,5.0
+dbscan,1,adrenocortical cancer,0.9901
+dbscan,1,bladder urothelial carcinoma,4.9505
+dbscan,1,skin cutaneous melanoma,3.4653
+dbscan,1,head & neck squamous cell carcinoma,1.9802
+dbscan,1,pancreatic adenocarcinoma,0.495
+dbscan,1,sarcoma,76.7327
+dbscan,1,kidney clear cell carcinoma,1.9802
+dbscan,1,liver hepatocellular carcinoma,0.9901
+dbscan,1,breast invasive carcinoma,2.4752
+dbscan,1,uterine carcinosarcoma,0.495
+dbscan,1,kidney chromophobe,0.9901
+dbscan,1,lung adenocarcinoma,0.495
+dbscan,1,mesothelioma,2.4752
+dbscan,1,thymoma,0.495
+dbscan,1,colon adenocarcinoma,0.495
+dbscan,1,stomach adenocarcinoma,0.495
+dbscan,2,bladder urothelial carcinoma,22.5624
+dbscan,2,uterine corpus endometrioid carcinoma,0.0567
+dbscan,2,skin cutaneous melanoma,0.0567
+dbscan,2,head & neck squamous cell carcinoma,31.2358
+dbscan,2,kidney papillary cell carcinoma,0.2268
+dbscan,2,pancreatic adenocarcinoma,0.0567
+dbscan,2,cervical & endocervical cancer,13.0952
+dbscan,2,lung squamous cell carcinoma,25.6236
+dbscan,2,breast invasive carcinoma,0.2268
+dbscan,2,lung adenocarcinoma,0.5669
+dbscan,2,thymoma,0.4535
+dbscan,2,esophageal carcinoma,5.3855
+dbscan,2,stomach adenocarcinoma,0.4535
+dbscan,3,bladder urothelial carcinoma,29.4118
+dbscan,3,sarcoma,11.7647
+dbscan,3,esophageal carcinoma,11.7647
+dbscan,3,stomach adenocarcinoma,47.0588
+dbscan,4,bladder urothelial carcinoma,18.75
+dbscan,4,head & neck squamous cell carcinoma,6.25
+dbscan,4,cervical & endocervical cancer,18.75
+dbscan,4,lung squamous cell carcinoma,25.0
+dbscan,4,lung adenocarcinoma,6.25
+dbscan,4,uterine corpus endometrioid carcinoma,18.75
+dbscan,4,stomach adenocarcinoma,6.25
+dbscan,5,bladder urothelial carcinoma,0.6403
+dbscan,5,uterine corpus endometrioid carcinoma,55.4963
+dbscan,5,skin cutaneous melanoma,0.3202
+dbscan,5,head & neck squamous cell carcinoma,0.2134
+dbscan,5,sarcoma,2.4546
+dbscan,5,cervical & endocervical cancer,1.174
+dbscan,5,lung squamous cell carcinoma,0.4269
+dbscan,5,breast invasive carcinoma,0.3202
+dbscan,5,ovarian serous cystadenocarcinoma,32.5507
+dbscan,5,uterine carcinosarcoma,5.8698
+dbscan,5,glioblastoma multiforme,0.2134
+dbscan,5,lung adenocarcinoma,0.3202
+dbscan,6,bladder urothelial carcinoma,0.4264
+dbscan,6,skin cutaneous melanoma,96.8017
+dbscan,6,head & neck squamous cell carcinoma,0.2132
+dbscan,6,pancreatic adenocarcinoma,0.2132
+dbscan,6,sarcoma,1.0661
+dbscan,6,lung squamous cell carcinoma,0.2132
+dbscan,6,breast invasive carcinoma,0.2132
+dbscan,6,glioblastoma multiforme,0.2132
+dbscan,6,thymoma,0.2132
+dbscan,6,cholangiocarcinoma,0.2132
+dbscan,6,esophageal carcinoma,0.2132
+dbscan,7,bladder urothelial carcinoma,0.2235
+dbscan,7,uterine corpus endometrioid carcinoma,0.2235
+dbscan,7,pancreatic adenocarcinoma,13.4128
+dbscan,7,sarcoma,0.149
+dbscan,7,cervical & endocervical cancer,0.2981
+dbscan,7,colon adenocarcinoma,33.7556
+dbscan,7,lung squamous cell carcinoma,0.149
+dbscan,7,rectum adenocarcinoma,11.9225
+dbscan,7,liver hepatocellular carcinoma,0.149
+dbscan,7,lung adenocarcinoma,0.0745
+dbscan,7,pheochromocytoma & paraganglioma,0.0745
+dbscan,7,testicular germ cell tumor,0.0745
+dbscan,7,cholangiocarcinoma,0.2981
+dbscan,7,esophageal carcinoma,7.079
+dbscan,7,stomach adenocarcinoma,32.0417
+dbscan,7,ovarian serous cystadenocarcinoma,0.0745
+dbscan,8,diffuse large B-cell lymphoma,97.9592
+dbscan,8,stomach adenocarcinoma,2.0408
+dbscan,9,uterine corpus endometrioid carcinoma,13.8298
+dbscan,9,sarcoma,79.7872
+dbscan,9,cervical & endocervical cancer,2.1277
+dbscan,9,liver hepatocellular carcinoma,2.1277
+dbscan,9,breast invasive carcinoma,1.0638
+dbscan,9,ovarian serous cystadenocarcinoma,1.0638
+dbscan,10,uterine corpus endometrioid carcinoma,81.25
+dbscan,10,skin cutaneous melanoma,6.25
+dbscan,10,cervical & endocervical cancer,12.5
+dbscan,11,uterine corpus endometrioid carcinoma,100.0
+dbscan,12,uterine corpus endometrioid carcinoma,50.0
+dbscan,12,lung squamous cell carcinoma,20.0
+dbscan,12,uterine carcinosarcoma,10.0
+dbscan,12,lung adenocarcinoma,10.0
+dbscan,12,esophageal carcinoma,10.0
+dbscan,13,skin cutaneous melanoma,16.6667
+dbscan,13,head & neck squamous cell carcinoma,83.3333
+dbscan,14,skin cutaneous melanoma,5.814
+dbscan,14,brain lower grade glioma,1.1628
+dbscan,14,uveal melanoma,93.0233
+dbscan,15,skin cutaneous melanoma,0.3067
+dbscan,15,sarcoma,0.1534
+dbscan,15,lung squamous cell carcinoma,13.4969
+dbscan,15,lung adenocarcinoma,85.5828
+dbscan,15,mesothelioma,0.3067
+dbscan,15,stomach adenocarcinoma,0.1534
+dbscan,16,head & neck squamous cell carcinoma,0.1112
+dbscan,16,breast invasive carcinoma,99.8888
+dbscan,17,prostate adenocarcinoma,100.0
+dbscan,18,prostate adenocarcinoma,100.0
+dbscan,19,kidney papillary cell carcinoma,93.8849
+dbscan,19,kidney clear cell carcinoma,6.1151
+dbscan,20,kidney papillary cell carcinoma,13.3333
+dbscan,20,kidney clear cell carcinoma,86.6667
+dbscan,21,kidney papillary cell carcinoma,1.2295
+dbscan,21,kidney clear cell carcinoma,98.7705
+dbscan,22,kidney papillary cell carcinoma,50.0
+dbscan,22,kidney clear cell carcinoma,10.0
+dbscan,22,kidney chromophobe,40.0
+dbscan,23,kidney papillary cell carcinoma,2.5641
+dbscan,23,kidney clear cell carcinoma,20.5128
+dbscan,23,kidney chromophobe,76.9231
+dbscan,24,kidney papillary cell carcinoma,100.0
+dbscan,25,kidney papillary cell carcinoma,25.1908
+dbscan,25,sarcoma,0.7634
+dbscan,25,kidney clear cell carcinoma,54.9618
+dbscan,25,kidney chromophobe,19.084
+dbscan,26,cervical & endocervical cancer,98.1818
+dbscan,26,uterine corpus endometrioid carcinoma,1.8182
+dbscan,27,cervical & endocervical cancer,0.5435
+dbscan,27,breast invasive carcinoma,98.913
+dbscan,27,esophageal carcinoma,0.5435
+dbscan,28,colon adenocarcinoma,80.3922
+dbscan,28,rectum adenocarcinoma,19.6078
+dbscan,29,rectum adenocarcinoma,0.2174
+dbscan,29,kidney clear cell carcinoma,0.2174
+dbscan,29,liver hepatocellular carcinoma,90.6522
+dbscan,29,breast invasive carcinoma,0.2174
+dbscan,29,cholangiocarcinoma,8.6957
+dbscan,30,breast invasive carcinoma,99.0741
+dbscan,30,thymoma,0.9259
+dbscan,31,breast invasive carcinoma,100.0
+dbscan,32,glioblastoma multiforme,24.212
+dbscan,32,brain lower grade glioma,75.788
+dbscan,33,thyroid carcinoma,100.0
+dbscan,34,thyroid carcinoma,100.0
+dbscan,35,lung adenocarcinoma,1.2346
+dbscan,35,mesothelioma,98.7654
+dbscan,36,pheochromocytoma & paraganglioma,100.0
+dbscan,37,testicular germ cell tumor,100.0
+dbscan,38,testicular germ cell tumor,100.0
+dbscan,39,thymoma,100.0
+dbscan,40,thymoma,100.0
+dbscan,41,acute myeloid leukemia,100.0
+dbscan,42,acute myeloid leukemia,100.0
+gmm_bic,9,adrenocortical cancer,29.0076
+gmm_bic,9,pheochromocytoma & paraganglioma,70.9924
+gmm_bic,4,adrenocortical cancer,0.4914
+gmm_bic,4,bladder urothelial carcinoma,3.4398
+gmm_bic,4,uterine corpus endometrioid carcinoma,3.1941
+gmm_bic,4,skin cutaneous melanoma,1.7199
+gmm_bic,4,head & neck squamous cell carcinoma,0.9828
+gmm_bic,4,pancreatic adenocarcinoma,0.2457
+gmm_bic,4,sarcoma,57.2482
+gmm_bic,4,cervical & endocervical cancer,0.4914
+gmm_bic,4,kidney clear cell carcinoma,0.9828
+gmm_bic,4,liver hepatocellular carcinoma,0.9828
+gmm_bic,4,breast invasive carcinoma,4.914
+gmm_bic,4,uterine carcinosarcoma,0.2457
+gmm_bic,4,kidney chromophobe,0.4914
+gmm_bic,4,lung adenocarcinoma,0.4914
+gmm_bic,4,mesothelioma,20.8845
+gmm_bic,4,colon adenocarcinoma,0.2457
+gmm_bic,4,ovarian serous cystadenocarcinoma,0.2457
+gmm_bic,4,esophageal carcinoma,0.4914
+gmm_bic,4,stomach adenocarcinoma,2.2113
+gmm_bic,0,adrenocortical cancer,0.068
+gmm_bic,0,bladder urothelial carcinoma,3.739
+gmm_bic,0,uterine corpus endometrioid carcinoma,0.136
+gmm_bic,0,skin cutaneous melanoma,0.068
+gmm_bic,0,head & neck squamous cell carcinoma,37.5255
+gmm_bic,0,pancreatic adenocarcinoma,0.068
+gmm_bic,0,cervical & endocervical cancer,19.4426
+gmm_bic,0,lung squamous cell carcinoma,30.5235
+gmm_bic,0,breast invasive carcinoma,0.2039
+gmm_bic,0,lung adenocarcinoma,0.6798
+gmm_bic,0,thymoma,0.6118
+gmm_bic,0,esophageal carcinoma,6.4582
+gmm_bic,0,stomach adenocarcinoma,0.4759
+gmm_bic,14,bladder urothelial carcinoma,97.4576
+gmm_bic,14,kidney papillary cell carcinoma,1.1299
+gmm_bic,14,cervical & endocervical cancer,0.2825
+gmm_bic,14,lung squamous cell carcinoma,0.565
+gmm_bic,14,esophageal carcinoma,0.2825
+gmm_bic,14,stomach adenocarcinoma,0.2825
+gmm_bic,8,bladder urothelial carcinoma,1.3196
+gmm_bic,8,uterine corpus endometrioid carcinoma,78.5924
+gmm_bic,8,skin cutaneous melanoma,0.5865
+gmm_bic,8,head & neck squamous cell carcinoma,0.4399
+gmm_bic,8,sarcoma,3.3724
+gmm_bic,8,cervical & endocervical cancer,2.346
+gmm_bic,8,lung squamous cell carcinoma,1.4663
+gmm_bic,8,breast invasive carcinoma,0.4399
+gmm_bic,8,uterine carcinosarcoma,8.0645
+gmm_bic,8,glioblastoma multiforme,0.2933
+gmm_bic,8,lung adenocarcinoma,0.7331
+gmm_bic,8,ovarian serous cystadenocarcinoma,1.9062
+gmm_bic,8,esophageal carcinoma,0.1466
+gmm_bic,8,stomach adenocarcinoma,0.2933
+gmm_bic,13,bladder urothelial carcinoma,0.3317
+gmm_bic,13,diffuse large B-cell lymphoma,7.9602
+gmm_bic,13,skin cutaneous melanoma,76.1194
+gmm_bic,13,head & neck squamous cell carcinoma,0.1658
+gmm_bic,13,pancreatic adenocarcinoma,0.1658
+gmm_bic,13,sarcoma,0.8292
+gmm_bic,13,lung squamous cell carcinoma,0.1658
+gmm_bic,13,glioblastoma multiforme,0.1658
+gmm_bic,13,brain lower grade glioma,0.1658
+gmm_bic,13,uveal melanoma,13.267
+gmm_bic,13,thymoma,0.1658
+gmm_bic,13,cholangiocarcinoma,0.1658
+gmm_bic,13,esophageal carcinoma,0.1658
+gmm_bic,13,stomach adenocarcinoma,0.1658
+gmm_bic,1,bladder urothelial carcinoma,0.1437
+gmm_bic,1,uterine corpus endometrioid carcinoma,0.2155
+gmm_bic,1,pancreatic adenocarcinoma,12.931
+gmm_bic,1,sarcoma,0.1437
+gmm_bic,1,cervical & endocervical cancer,0.2874
+gmm_bic,1,colon adenocarcinoma,35.4885
+gmm_bic,1,lung squamous cell carcinoma,0.1437
+gmm_bic,1,rectum adenocarcinoma,12.2126
+gmm_bic,1,liver hepatocellular carcinoma,0.1437
+gmm_bic,1,lung adenocarcinoma,0.1437
+gmm_bic,1,pheochromocytoma & paraganglioma,0.0718
+gmm_bic,1,testicular germ cell tumor,0.0718
+gmm_bic,1,cholangiocarcinoma,0.2874
+gmm_bic,1,esophageal carcinoma,6.8247
+gmm_bic,1,stomach adenocarcinoma,30.819
+gmm_bic,1,ovarian serous cystadenocarcinoma,0.0718
+gmm_bic,16,uterine corpus endometrioid carcinoma,4.2345
+gmm_bic,16,ovarian serous cystadenocarcinoma,95.4397
+gmm_bic,16,uterine carcinosarcoma,0.3257
+gmm_bic,15,skin cutaneous melanoma,0.3344
+gmm_bic,15,head & neck squamous cell carcinoma,1.6722
+gmm_bic,15,cervical & endocervical cancer,0.3344
+gmm_bic,15,breast invasive carcinoma,96.99
+gmm_bic,15,thymoma,0.3344
+gmm_bic,15,esophageal carcinoma,0.3344
+gmm_bic,12,skin cutaneous melanoma,0.3067
+gmm_bic,12,sarcoma,0.1534
+gmm_bic,12,lung squamous cell carcinoma,13.6503
+gmm_bic,12,lung adenocarcinoma,85.4294
+gmm_bic,12,mesothelioma,0.3067
+gmm_bic,12,stomach adenocarcinoma,0.1534
+gmm_bic,5,head & neck squamous cell carcinoma,0.1107
+gmm_bic,5,breast invasive carcinoma,99.8893
+gmm_bic,7,prostate adenocarcinoma,100.0
+gmm_bic,11,kidney papillary cell carcinoma,71.4286
+gmm_bic,11,sarcoma,0.2381
+gmm_bic,11,kidney clear cell carcinoma,21.4286
+gmm_bic,11,kidney chromophobe,6.9048
+gmm_bic,6,kidney papillary cell carcinoma,3.2203
+gmm_bic,6,kidney clear cell carcinoma,86.6102
+gmm_bic,6,kidney chromophobe,10.1695
+gmm_bic,10,rectum adenocarcinoma,0.2179
+gmm_bic,10,kidney clear cell carcinoma,0.2179
+gmm_bic,10,liver hepatocellular carcinoma,90.8497
+gmm_bic,10,cholangiocarcinoma,8.7146
+gmm_bic,3,glioblastoma multiforme,24.212
+gmm_bic,3,brain lower grade glioma,75.788
+gmm_bic,2,thyroid carcinoma,100.0
+gmm_bic,19,testicular germ cell tumor,100.0
+gmm_bic,17,thymoma,100.0
+gmm_bic,18,acute myeloid leukemia,100.0
+hdbscan,5,adrenocortical cancer,95.0
+hdbscan,5,pheochromocytoma & paraganglioma,5.0
+hdbscan,34,adrenocortical cancer,1.9417
+hdbscan,34,bladder urothelial carcinoma,6.7961
+hdbscan,34,skin cutaneous melanoma,5.8252
+hdbscan,34,head & neck squamous cell carcinoma,1.9417
+hdbscan,34,pancreatic adenocarcinoma,0.9709
+hdbscan,34,sarcoma,66.0194
+hdbscan,34,kidney clear cell carcinoma,3.8835
+hdbscan,34,liver hepatocellular carcinoma,1.9417
+hdbscan,34,breast invasive carcinoma,2.9126
+hdbscan,34,kidney chromophobe,1.9417
+hdbscan,34,lung adenocarcinoma,0.9709
+hdbscan,34,mesothelioma,2.9126
+hdbscan,34,colon adenocarcinoma,0.9709
+hdbscan,34,stomach adenocarcinoma,0.9709
+hdbscan,49,bladder urothelial carcinoma,98.1343
+hdbscan,49,kidney papillary cell carcinoma,1.4925
+hdbscan,49,lung squamous cell carcinoma,0.3731
+hdbscan,52,bladder urothelial carcinoma,89.4737
+hdbscan,52,cervical & endocervical cancer,2.6316
+hdbscan,52,lung squamous cell carcinoma,2.6316
+hdbscan,52,esophageal carcinoma,2.6316
+hdbscan,52,stomach adenocarcinoma,2.6316
+hdbscan,46,bladder urothelial carcinoma,5.8824
+hdbscan,46,uterine corpus endometrioid carcinoma,1.9608
+hdbscan,46,head & neck squamous cell carcinoma,15.6863
+hdbscan,46,cervical & endocervical cancer,1.9608
+hdbscan,46,lung squamous cell carcinoma,64.7059
+hdbscan,46,lung adenocarcinoma,3.9216
+hdbscan,46,thymoma,1.9608
+hdbscan,46,esophageal carcinoma,3.9216
+hdbscan,31,bladder urothelial carcinoma,4.3478
+hdbscan,31,head & neck squamous cell carcinoma,73.913
+hdbscan,31,esophageal carcinoma,8.6957
+hdbscan,31,stomach adenocarcinoma,13.0435
+hdbscan,53,bladder urothelial carcinoma,2.1505
+hdbscan,53,head & neck squamous cell carcinoma,3.2258
+hdbscan,53,cervical & endocervical cancer,93.5484
+hdbscan,53,lung squamous cell carcinoma,1.0753
+hdbscan,57,bladder urothelial carcinoma,3.9216
+hdbscan,57,head & neck squamous cell carcinoma,88.2353
+hdbscan,57,cervical & endocervical cancer,0.9804
+hdbscan,57,lung squamous cell carcinoma,2.9412
+hdbscan,57,esophageal carcinoma,3.9216
+hdbscan,33,bladder urothelial carcinoma,7.4074
+hdbscan,33,uterine corpus endometrioid carcinoma,6.1728
+hdbscan,33,skin cutaneous melanoma,3.7037
+hdbscan,33,head & neck squamous cell carcinoma,2.4691
+hdbscan,33,sarcoma,14.8148
+hdbscan,33,cervical & endocervical cancer,1.2346
+hdbscan,33,lung squamous cell carcinoma,4.9383
+hdbscan,33,breast invasive carcinoma,2.4691
+hdbscan,33,uterine carcinosarcoma,49.3827
+hdbscan,33,glioblastoma multiforme,2.4691
+hdbscan,33,lung adenocarcinoma,1.2346
+hdbscan,33,ovarian serous cystadenocarcinoma,3.7037
+hdbscan,21,bladder urothelial carcinoma,0.4274
+hdbscan,21,skin cutaneous melanoma,97.0085
+hdbscan,21,head & neck squamous cell carcinoma,0.2137
+hdbscan,21,pancreatic adenocarcinoma,0.2137
+hdbscan,21,sarcoma,1.0684
+hdbscan,21,lung squamous cell carcinoma,0.2137
+hdbscan,21,glioblastoma multiforme,0.2137
+hdbscan,21,thymoma,0.2137
+hdbscan,21,cholangiocarcinoma,0.2137
+hdbscan,21,esophageal carcinoma,0.2137
+hdbscan,54,bladder urothelial carcinoma,3.125
+hdbscan,54,head & neck squamous cell carcinoma,40.625
+hdbscan,54,cervical & endocervical cancer,3.125
+hdbscan,54,lung squamous cell carcinoma,3.125
+hdbscan,54,esophageal carcinoma,50.0
+hdbscan,45,bladder urothelial carcinoma,0.1706
+hdbscan,45,pancreatic adenocarcinoma,0.5119
+hdbscan,45,cervical & endocervical cancer,0.3413
+hdbscan,45,colon adenocarcinoma,72.6962
+hdbscan,45,rectum adenocarcinoma,25.4266
+hdbscan,45,stomach adenocarcinoma,0.8532
+hdbscan,58,bladder urothelial carcinoma,0.9524
+hdbscan,58,head & neck squamous cell carcinoma,4.7619
+hdbscan,58,lung squamous cell carcinoma,93.3333
+hdbscan,58,esophageal carcinoma,0.9524
+hdbscan,27,bladder urothelial carcinoma,0.5376
+hdbscan,27,uterine corpus endometrioid carcinoma,0.5376
+hdbscan,27,pancreatic adenocarcinoma,93.5484
+hdbscan,27,colon adenocarcinoma,1.6129
+hdbscan,27,lung squamous cell carcinoma,0.5376
+hdbscan,27,pheochromocytoma & paraganglioma,0.5376
+hdbscan,27,cholangiocarcinoma,1.0753
+hdbscan,27,stomach adenocarcinoma,1.6129
+hdbscan,17,diffuse large B-cell lymphoma,97.9592
+hdbscan,17,stomach adenocarcinoma,2.0408
+hdbscan,37,uterine corpus endometrioid carcinoma,2.6059
+hdbscan,37,ovarian serous cystadenocarcinoma,97.0684
+hdbscan,37,uterine carcinosarcoma,0.3257
+hdbscan,43,uterine corpus endometrioid carcinoma,97.486
+hdbscan,43,cervical & endocervical cancer,1.676
+hdbscan,43,breast invasive carcinoma,0.2793
+hdbscan,43,uterine carcinosarcoma,0.2793
+hdbscan,43,ovarian serous cystadenocarcinoma,0.2793
+hdbscan,39,uterine corpus endometrioid carcinoma,88.6957
+hdbscan,39,cervical & endocervical cancer,1.7391
+hdbscan,39,uterine carcinosarcoma,5.2174
+hdbscan,39,lung adenocarcinoma,1.7391
+hdbscan,39,ovarian serous cystadenocarcinoma,2.6087
+hdbscan,42,uterine corpus endometrioid carcinoma,96.6667
+hdbscan,42,uterine carcinosarcoma,3.3333
+hdbscan,22,skin cutaneous melanoma,0.8772
+hdbscan,22,head & neck squamous cell carcinoma,4.386
+hdbscan,22,breast invasive carcinoma,93.8596
+hdbscan,22,thymoma,0.8772
+hdbscan,15,skin cutaneous melanoma,4.5455
+hdbscan,15,brain lower grade glioma,2.2727
+hdbscan,15,uveal melanoma,93.1818
+hdbscan,14,skin cutaneous melanoma,7.6923
+hdbscan,14,uveal melanoma,92.3077
+hdbscan,16,skin cutaneous melanoma,0.7874
+hdbscan,16,lung squamous cell carcinoma,42.5197
+hdbscan,16,lung adenocarcinoma,55.9055
+hdbscan,16,mesothelioma,0.7874
+hdbscan,55,head & neck squamous cell carcinoma,29.8246
+hdbscan,55,cervical & endocervical cancer,5.2632
+hdbscan,55,lung squamous cell carcinoma,45.614
+hdbscan,55,esophageal carcinoma,19.2982
+hdbscan,50,head & neck squamous cell carcinoma,90.625
+hdbscan,50,cervical & endocervical cancer,9.375
+hdbscan,51,head & neck squamous cell carcinoma,95.7447
+hdbscan,51,esophageal carcinoma,4.2553
+hdbscan,56,head & neck squamous cell carcinoma,100.0
+hdbscan,23,head & neck squamous cell carcinoma,0.1107
+hdbscan,23,breast invasive carcinoma,99.8893
+hdbscan,3,prostate adenocarcinoma,100.0
+hdbscan,4,kidney papillary cell carcinoma,93.8849
+hdbscan,4,kidney clear cell carcinoma,6.1151
+hdbscan,11,kidney papillary cell carcinoma,1.2295
+hdbscan,11,kidney clear cell carcinoma,98.7705
+hdbscan,2,kidney papillary cell carcinoma,2.5641
+hdbscan,2,kidney clear cell carcinoma,20.5128
+hdbscan,2,kidney chromophobe,76.9231
+hdbscan,24,kidney papillary cell carcinoma,15.7895
+hdbscan,24,kidney clear cell carcinoma,55.2632
+hdbscan,24,kidney chromophobe,28.9474
+hdbscan,25,kidney papillary cell carcinoma,29.0323
+hdbscan,25,sarcoma,1.0753
+hdbscan,25,kidney clear cell carcinoma,54.8387
+hdbscan,25,kidney chromophobe,15.0538
+hdbscan,59,pancreatic adenocarcinoma,0.6329
+hdbscan,59,lung squamous cell carcinoma,96.2025
+hdbscan,59,lung adenocarcinoma,3.1646
+hdbscan,32,pancreatic adenocarcinoma,3.3333
+hdbscan,32,stomach adenocarcinoma,73.3333
+hdbscan,32,esophageal carcinoma,23.3333
+hdbscan,35,sarcoma,100.0
+hdbscan,28,sarcoma,97.3684
+hdbscan,28,liver hepatocellular carcinoma,2.6316
+hdbscan,48,sarcoma,0.3236
+hdbscan,48,cervical & endocervical cancer,0.3236
+hdbscan,48,colon adenocarcinoma,0.3236
+hdbscan,48,stomach adenocarcinoma,83.1715
+hdbscan,48,esophageal carcinoma,15.8576
+hdbscan,29,cervical & endocervical cancer,98.1818
+hdbscan,29,uterine corpus endometrioid carcinoma,1.8182
+hdbscan,20,cervical & endocervical cancer,0.5435
+hdbscan,20,breast invasive carcinoma,98.913
+hdbscan,20,esophageal carcinoma,0.5435
+hdbscan,10,colon adenocarcinoma,80.3922
+hdbscan,10,rectum adenocarcinoma,19.6078
+hdbscan,44,colon adenocarcinoma,2.5
+hdbscan,44,lung squamous cell carcinoma,2.5
+hdbscan,44,liver hepatocellular carcinoma,5.0
+hdbscan,44,testicular germ cell tumor,2.5
+hdbscan,44,ovarian serous cystadenocarcinoma,2.5
+hdbscan,44,esophageal carcinoma,15.0
+hdbscan,44,stomach adenocarcinoma,70.0
+hdbscan,38,lung squamous cell carcinoma,11.5385
+hdbscan,38,lung adenocarcinoma,88.4615
+hdbscan,36,lung squamous cell carcinoma,5.0676
+hdbscan,36,lung adenocarcinoma,94.9324
+hdbscan,41,lung squamous cell carcinoma,10.3448
+hdbscan,41,lung adenocarcinoma,89.6552
+hdbscan,19,kidney clear cell carcinoma,0.2907
+hdbscan,19,liver hepatocellular carcinoma,99.4186
+hdbscan,19,cholangiocarcinoma,0.2907
+hdbscan,18,liver hepatocellular carcinoma,25.0
+hdbscan,18,cholangiocarcinoma,75.0
+hdbscan,12,liver hepatocellular carcinoma,86.5672
+hdbscan,12,cholangiocarcinoma,13.4328
+hdbscan,9,glioblastoma multiforme,24.212
+hdbscan,9,brain lower grade glioma,75.788
+hdbscan,0,thyroid carcinoma,100.0
+hdbscan,40,lung adenocarcinoma,100.0
+hdbscan,30,lung adenocarcinoma,1.2658
+hdbscan,30,mesothelioma,98.7342
+hdbscan,8,pheochromocytoma & paraganglioma,100.0
+hdbscan,13,testicular germ cell tumor,100.0
+hdbscan,26,testicular germ cell tumor,100.0
+hdbscan,7,thymoma,100.0
+hdbscan,6,thymoma,100.0
+hdbscan,47,stomach adenocarcinoma,100.0
+hdbscan,1,acute myeloid leukemia,100.0
+hierarchical,5,adrenocortical cancer,9.7893
+hierarchical,5,bladder urothelial carcinoma,2.3544
+hierarchical,5,diffuse large B-cell lymphoma,5.948
+hierarchical,5,uterine corpus endometrioid carcinoma,1.6109
+hierarchical,5,skin cutaneous melanoma,2.3544
+hierarchical,5,head & neck squamous cell carcinoma,0.8674
+hierarchical,5,pancreatic adenocarcinoma,0.2478
+hierarchical,5,sarcoma,29.8637
+hierarchical,5,cervical & endocervical cancer,0.2478
+hierarchical,5,lung squamous cell carcinoma,0.1239
+hierarchical,5,kidney clear cell carcinoma,0.4957
+hierarchical,5,liver hepatocellular carcinoma,0.4957
+hierarchical,5,breast invasive carcinoma,2.6022
+hierarchical,5,uterine carcinosarcoma,0.1239
+hierarchical,5,glioblastoma multiforme,0.3717
+hierarchical,5,kidney chromophobe,0.2478
+hierarchical,5,brain lower grade glioma,0.1239
+hierarchical,5,lung adenocarcinoma,0.3717
+hierarchical,5,mesothelioma,10.5328
+hierarchical,5,pheochromocytoma & paraganglioma,0.6196
+hierarchical,5,testicular germ cell tumor,14.746
+hierarchical,5,thymoma,14.1264
+hierarchical,5,cholangiocarcinoma,0.1239
+hierarchical,5,colon adenocarcinoma,0.1239
+hierarchical,5,ovarian serous cystadenocarcinoma,0.1239
+hierarchical,5,esophageal carcinoma,0.3717
+hierarchical,5,stomach adenocarcinoma,0.9913
+hierarchical,2,bladder urothelial carcinoma,22.1847
+hierarchical,2,skin cutaneous melanoma,0.2252
+hierarchical,2,head & neck squamous cell carcinoma,31.25
+hierarchical,2,kidney papillary cell carcinoma,0.2252
+hierarchical,2,pancreatic adenocarcinoma,0.1126
+hierarchical,2,cervical & endocervical cancer,12.9505
+hierarchical,2,lung squamous cell carcinoma,25.3941
+hierarchical,2,breast invasive carcinoma,0.2252
+hierarchical,2,lung adenocarcinoma,0.6757
+hierarchical,2,thymoma,0.4505
+hierarchical,2,esophageal carcinoma,5.518
+hierarchical,2,uterine corpus endometrioid carcinoma,0.0563
+hierarchical,2,rectum adenocarcinoma,0.0563
+hierarchical,2,stomach adenocarcinoma,0.6757
+hierarchical,3,bladder urothelial carcinoma,1.1722
+hierarchical,3,uterine corpus endometrioid carcinoma,49.6844
+hierarchical,3,skin cutaneous melanoma,0.0902
+hierarchical,3,head & neck squamous cell carcinoma,0.2705
+hierarchical,3,prostate adenocarcinoma,0.7214
+hierarchical,3,pancreatic adenocarcinoma,0.7214
+hierarchical,3,sarcoma,1.6231
+hierarchical,3,cervical & endocervical cancer,6.4923
+hierarchical,3,colon adenocarcinoma,0.0902
+hierarchical,3,lung squamous cell carcinoma,1.2624
+hierarchical,3,breast invasive carcinoma,0.3607
+hierarchical,3,ovarian serous cystadenocarcinoma,27.5924
+hierarchical,3,uterine carcinosarcoma,5.0496
+hierarchical,3,lung adenocarcinoma,0.8115
+hierarchical,3,mesothelioma,0.0902
+hierarchical,3,pheochromocytoma & paraganglioma,0.0902
+hierarchical,3,testicular germ cell tumor,2.9757
+hierarchical,3,esophageal carcinoma,0.3607
+hierarchical,3,stomach adenocarcinoma,0.541
+hierarchical,0,bladder urothelial carcinoma,0.069
+hierarchical,0,pancreatic adenocarcinoma,11.7931
+hierarchical,0,sarcoma,0.069
+hierarchical,0,cervical & endocervical cancer,0.2759
+hierarchical,0,colon adenocarcinoma,34.0
+hierarchical,0,lung squamous cell carcinoma,0.1379
+hierarchical,0,rectum adenocarcinoma,11.7241
+hierarchical,0,kidney clear cell carcinoma,0.069
+hierarchical,0,liver hepatocellular carcinoma,2.0
+hierarchical,0,breast invasive carcinoma,0.069
+hierarchical,0,lung adenocarcinoma,1.5172
+hierarchical,0,testicular germ cell tumor,0.2759
+hierarchical,0,cholangiocarcinoma,2.3448
+hierarchical,0,esophageal carcinoma,6.2759
+hierarchical,0,stomach adenocarcinoma,29.2414
+hierarchical,0,uterine corpus endometrioid carcinoma,0.069
+hierarchical,0,ovarian serous cystadenocarcinoma,0.069
+hierarchical,6,skin cutaneous melanoma,84.2697
+hierarchical,6,sarcoma,0.7491
+hierarchical,6,uveal melanoma,14.9813
+hierarchical,8,head & neck squamous cell carcinoma,0.084
+hierarchical,8,cervical & endocervical cancer,0.084
+hierarchical,8,breast invasive carcinoma,99.8319
+hierarchical,9,prostate adenocarcinoma,100.0
+hierarchical,1,kidney papillary cell carcinoma,31.5842
+hierarchical,1,sarcoma,0.099
+hierarchical,1,kidney clear cell carcinoma,59.505
+hierarchical,1,kidney chromophobe,8.8119
+hierarchical,11,cervical & endocervical cancer,0.1618
+hierarchical,11,lung squamous cell carcinoma,13.754
+hierarchical,11,lung adenocarcinoma,85.7605
+hierarchical,11,mesothelioma,0.1618
+hierarchical,11,uterine corpus endometrioid carcinoma,0.1618
+hierarchical,13,liver hepatocellular carcinoma,97.5
+hierarchical,13,cholangiocarcinoma,2.5
+hierarchical,4,glioblastoma multiforme,24.212
+hierarchical,4,brain lower grade glioma,75.788
+hierarchical,7,thyroid carcinoma,100.0
+hierarchical,12,pheochromocytoma & paraganglioma,100.0
+hierarchical,10,acute myeloid leukemia,100.0

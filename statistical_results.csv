@@ -1,0 +1,16 @@
+algorithm_1,algorithm_2,p_value,test
+kmeans,gmm,4.2897735272459546e-08,Paired t-test
+kmeans,gmm_bic,1.0474013281143906e-06,Paired t-test
+kmeans,hdbscan,8.221850316038329e-14,Paired t-test
+kmeans,dbscan,1.3124147182235622e-35,Paired t-test
+kmeans,kmeans_elbow,5.163663668085572e-72,Paired t-test
+gmm,gmm_bic,1.8071470399496953e-06,Paired t-test
+gmm,hdbscan,1.4323570650072473e-13,Paired t-test
+gmm,dbscan,1.9663737730049027e-35,Paired t-test
+gmm,kmeans_elbow,9.16332045855159e-72,Paired t-test
+gmm_bic,hdbscan,0.002386378146620695,Paired t-test
+gmm_bic,dbscan,9.509199678314186e-29,Paired t-test
+gmm_bic,kmeans_elbow,8.40004036122451e-64,Paired t-test
+hdbscan,dbscan,3.1065543572661098e-27,Paired t-test
+hdbscan,kmeans_elbow,3.270259877151526e-66,Paired t-test
+dbscan,kmeans_elbow,1.1981651665693054e-58,Paired t-test

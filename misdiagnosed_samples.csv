@@ -1,0 +1,596 @@
+Sample_ID,Cluster,TrueType,DominantClusterType,Algorithm
+TCGA-DK-A3WY-01,10.0,bladder urothelial carcinoma,skin cutaneous melanoma,kmeans
+TCGA-DK-AA6T-01,10.0,bladder urothelial carcinoma,skin cutaneous melanoma,kmeans
+TCGA-2E-A9G8-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-AJ-A3TW-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-AX-A1C7-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-AX-A3G3-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-AX-A3G7-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-AX-A3GI-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-BK-A139-02,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-EO-A3KW-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-H5-A2HR-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-KJ-A3U4-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-KP-A3VZ-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-PG-A914-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-SL-A6J9-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-3N-A9WD-06,4.0,skin cutaneous melanoma,breast invasive carcinoma,kmeans
+TCGA-BF-AAP8-01,24.0,skin cutaneous melanoma,uveal melanoma,kmeans
+TCGA-ER-A2NF-06,24.0,skin cutaneous melanoma,uveal melanoma,kmeans
+TCGA-ER-A3ES-06,24.0,skin cutaneous melanoma,uveal melanoma,kmeans
+TCGA-RP-A690-06,24.0,skin cutaneous melanoma,uveal melanoma,kmeans
+TCGA-RP-A6K9-06,24.0,skin cutaneous melanoma,uveal melanoma,kmeans
+TCGA-CV-6933-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,kmeans
+TCGA-CV-6938-11,10.0,head & neck squamous cell carcinoma,skin cutaneous melanoma,kmeans
+TCGA-CV-7178-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,kmeans
+TCGA-CV-7235-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,kmeans
+TCGA-CV-7432-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,kmeans
+TCGA-CV-7434-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,kmeans
+TCGA-MT-A7BN-01,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,kmeans
+TCGA-2Z-A9JK-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,kmeans
+TCGA-4A-A93Y-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,kmeans
+TCGA-5P-A9JV-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,kmeans
+TCGA-A4-7287-01,17.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,kmeans
+TCGA-AL-3473-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,kmeans
+TCGA-B3-4104-01,17.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,kmeans
+TCGA-BQ-5892-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,kmeans
+TCGA-HE-7130-01,17.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,kmeans
+TCGA-J7-A8I2-01,17.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,kmeans
+TCGA-WN-A9G9-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,kmeans
+TCGA-H6-A45N-11,10.0,pancreatic adenocarcinoma,skin cutaneous melanoma,kmeans
+TCGA-3B-A9HJ-01,10.0,sarcoma,skin cutaneous melanoma,kmeans
+TCGA-QQ-A8VG-01,10.0,sarcoma,skin cutaneous melanoma,kmeans
+TCGA-RN-A68Q-01,10.0,sarcoma,skin cutaneous melanoma,kmeans
+TCGA-RN-AAAQ-01,10.0,sarcoma,skin cutaneous melanoma,kmeans
+TCGA-SI-A71P-01,10.0,sarcoma,skin cutaneous melanoma,kmeans
+TCGA-PN-A8M9-01,21.0,cervical & endocervical cancer,breast invasive carcinoma,kmeans
+TCGA-VS-A8EJ-01,25.0,cervical & endocervical cancer,ovarian serous cystadenocarcinoma,kmeans
+TCGA-21-1078-01,17.0,lung squamous cell carcinoma,bladder urothelial carcinoma,kmeans
+TCGA-85-A4PA-01,10.0,lung squamous cell carcinoma,skin cutaneous melanoma,kmeans
+TCGA-G5-6572-02,8.0,rectum adenocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-6D-AA2E-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-A3-3313-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-A3-3363-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-AK-3456-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-AS-3777-01,8.0,kidney clear cell carcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-B0-5084-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-B0-5098-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-B0-5697-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-B0-5707-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-B2-4098-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-B4-5835-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-B8-4621-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-B8-5546-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-B8-A54E-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-BP-4756-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-CJ-5681-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-CW-6087-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-T7-A92I-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,kmeans
+TCGA-NA-A4R0-01,25.0,uterine carcinosarcoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-28-5218-01,10.0,glioblastoma multiforme,skin cutaneous melanoma,kmeans
+TCGA-P5-A5F6-01,24.0,brain lower grade glioma,uveal melanoma,kmeans
+TCGA-P8-A5KC-11,16.0,pheochromocytoma & paraganglioma,adrenocortical cancer,kmeans
+TCGA-P8-A5KD-11,16.0,pheochromocytoma & paraganglioma,adrenocortical cancer,kmeans
+TCGA-SQ-A6I4-11,16.0,pheochromocytoma & paraganglioma,adrenocortical cancer,kmeans
+TCGA-TT-A6YO-01,16.0,pheochromocytoma & paraganglioma,adrenocortical cancer,kmeans
+TCGA-X7-A8D6-11,4.0,thymoma,breast invasive carcinoma,kmeans
+TCGA-XM-A8R8-01,10.0,thymoma,skin cutaneous melanoma,kmeans
+TCGA-3X-AAVA-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-3X-AAVE-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-4G-AAZO-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-4G-AAZT-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2G-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2H-01,10.0,cholangiocarcinoma,skin cutaneous melanoma,kmeans
+TCGA-W5-AA2I-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2I-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2O-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2Q-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2Q-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2R-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2R-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2T-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2U-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2U-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2W-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2X-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA2Z-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA30-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA30-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA31-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA31-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA33-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA34-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA34-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA36-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA38-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W5-AA39-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-W6-AA0S-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-WD-A7RX-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-YR-A95A-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-ZD-A8I3-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-ZH-A8Y1-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-ZH-A8Y2-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-ZH-A8Y4-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-ZH-A8Y5-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-ZH-A8Y6-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-ZH-A8Y8-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-ZU-A8S4-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-ZU-A8S4-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,kmeans
+TCGA-AX-A2H2-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-AX-A2H5-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-B5-A0K3-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-B5-A11I-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-D1-A1NU-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-DI-A1NN-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-DI-A1NO-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-EO-A1Y5-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-FI-A2CY-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-FI-A2EU-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,kmeans
+TCGA-IG-A4QT-01,10.0,esophageal carcinoma,skin cutaneous melanoma,kmeans
+TCGA-LN-A49V-01,21.0,esophageal carcinoma,breast invasive carcinoma,kmeans
+TCGA-CD-8531-01,29.0,stomach adenocarcinoma,diffuse large B-cell lymphoma,kmeans
+TCGA-DK-A3WY-01,10.0,bladder urothelial carcinoma,skin cutaneous melanoma,gmm
+TCGA-DK-AA6T-01,10.0,bladder urothelial carcinoma,skin cutaneous melanoma,gmm
+TCGA-2E-A9G8-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-AJ-A3TW-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-AX-A1C7-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-AX-A3G3-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-AX-A3G7-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-AX-A3GI-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-BK-A139-02,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-EO-A3KW-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-H5-A2HR-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-KJ-A3U4-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-KP-A3VZ-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-PG-A914-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-SL-A6J9-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-3N-A9WD-06,4.0,skin cutaneous melanoma,breast invasive carcinoma,gmm
+TCGA-BF-AAP8-01,24.0,skin cutaneous melanoma,uveal melanoma,gmm
+TCGA-ER-A2NF-06,24.0,skin cutaneous melanoma,uveal melanoma,gmm
+TCGA-ER-A3ES-06,24.0,skin cutaneous melanoma,uveal melanoma,gmm
+TCGA-RP-A690-06,24.0,skin cutaneous melanoma,uveal melanoma,gmm
+TCGA-RP-A6K9-06,24.0,skin cutaneous melanoma,uveal melanoma,gmm
+TCGA-CV-6933-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm
+TCGA-CV-6938-11,10.0,head & neck squamous cell carcinoma,skin cutaneous melanoma,gmm
+TCGA-CV-7178-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm
+TCGA-CV-7235-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm
+TCGA-CV-7432-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm
+TCGA-CV-7434-11,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm
+TCGA-MT-A7BN-01,4.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm
+TCGA-2Z-A9JK-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,gmm
+TCGA-4A-A93Y-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,gmm
+TCGA-5P-A9JV-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,gmm
+TCGA-A4-7287-01,17.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,gmm
+TCGA-AL-3473-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,gmm
+TCGA-B3-4104-01,17.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,gmm
+TCGA-BQ-5892-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,gmm
+TCGA-HE-7130-01,17.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,gmm
+TCGA-J7-A8I2-01,17.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,gmm
+TCGA-WN-A9G9-01,5.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,gmm
+TCGA-H6-A45N-11,10.0,pancreatic adenocarcinoma,skin cutaneous melanoma,gmm
+TCGA-3B-A9HJ-01,10.0,sarcoma,skin cutaneous melanoma,gmm
+TCGA-QQ-A8VG-01,10.0,sarcoma,skin cutaneous melanoma,gmm
+TCGA-RN-A68Q-01,10.0,sarcoma,skin cutaneous melanoma,gmm
+TCGA-RN-AAAQ-01,10.0,sarcoma,skin cutaneous melanoma,gmm
+TCGA-SI-A71P-01,10.0,sarcoma,skin cutaneous melanoma,gmm
+TCGA-PN-A8M9-01,21.0,cervical & endocervical cancer,breast invasive carcinoma,gmm
+TCGA-VS-A8EJ-01,25.0,cervical & endocervical cancer,ovarian serous cystadenocarcinoma,gmm
+TCGA-VS-A9UH-01,17.0,cervical & endocervical cancer,bladder urothelial carcinoma,gmm
+TCGA-21-1078-01,17.0,lung squamous cell carcinoma,bladder urothelial carcinoma,gmm
+TCGA-56-8201-01,17.0,lung squamous cell carcinoma,bladder urothelial carcinoma,gmm
+TCGA-85-A4PA-01,10.0,lung squamous cell carcinoma,skin cutaneous melanoma,gmm
+TCGA-G5-6572-02,8.0,rectum adenocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-6D-AA2E-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-A3-3313-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-A3-3363-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-AK-3456-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-AS-3777-01,8.0,kidney clear cell carcinoma,liver hepatocellular carcinoma,gmm
+TCGA-B0-5084-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-B0-5098-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-B0-5697-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-B0-5707-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-B2-4098-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-B4-5835-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-B8-4621-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-B8-5546-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-B8-A54E-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-BP-4756-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-CJ-5681-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-CW-6087-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-T7-A92I-01,12.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,gmm
+TCGA-NA-A4R0-01,25.0,uterine carcinosarcoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-28-5218-01,10.0,glioblastoma multiforme,skin cutaneous melanoma,gmm
+TCGA-P5-A5F6-01,24.0,brain lower grade glioma,uveal melanoma,gmm
+TCGA-P8-A5KC-11,16.0,pheochromocytoma & paraganglioma,adrenocortical cancer,gmm
+TCGA-P8-A5KD-11,16.0,pheochromocytoma & paraganglioma,adrenocortical cancer,gmm
+TCGA-SQ-A6I4-11,16.0,pheochromocytoma & paraganglioma,adrenocortical cancer,gmm
+TCGA-TT-A6YO-01,16.0,pheochromocytoma & paraganglioma,adrenocortical cancer,gmm
+TCGA-X7-A8D6-11,4.0,thymoma,breast invasive carcinoma,gmm
+TCGA-XM-A8R8-01,10.0,thymoma,skin cutaneous melanoma,gmm
+TCGA-3X-AAVA-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-3X-AAVE-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-4G-AAZO-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-4G-AAZT-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2G-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2H-01,10.0,cholangiocarcinoma,skin cutaneous melanoma,gmm
+TCGA-W5-AA2I-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2I-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2O-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2Q-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2Q-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2R-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2R-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2T-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2U-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2U-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2W-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2X-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA2Z-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA30-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA30-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA31-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA31-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA33-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA34-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA34-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA36-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA38-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W5-AA39-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-W6-AA0S-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-WD-A7RX-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-YR-A95A-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-ZD-A8I3-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-ZH-A8Y1-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-ZH-A8Y2-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-ZH-A8Y4-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-ZH-A8Y5-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-ZH-A8Y6-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-ZH-A8Y8-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-ZU-A8S4-01,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-ZU-A8S4-11,8.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm
+TCGA-AX-A0IW-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-AX-A2H2-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-AX-A2H5-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-B5-A0K3-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-B5-A11I-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-D1-A1NU-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-DI-A1NN-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-DI-A1NO-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-EO-A1Y5-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-FI-A2CY-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-FI-A2EU-01,25.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm
+TCGA-IG-A4QT-01,10.0,esophageal carcinoma,skin cutaneous melanoma,gmm
+TCGA-LN-A49V-01,21.0,esophageal carcinoma,breast invasive carcinoma,gmm
+TCGA-VR-A8Q7-01,17.0,esophageal carcinoma,bladder urothelial carcinoma,gmm
+TCGA-BR-A4IY-01,17.0,stomach adenocarcinoma,bladder urothelial carcinoma,gmm
+TCGA-CD-8531-01,29.0,stomach adenocarcinoma,diffuse large B-cell lymphoma,gmm
+TCGA-DK-A3WY-01,6.0,bladder urothelial carcinoma,skin cutaneous melanoma,dbscan
+TCGA-DK-AA6T-01,6.0,bladder urothelial carcinoma,skin cutaneous melanoma,dbscan
+TCGA-BF-AAP8-01,14.0,skin cutaneous melanoma,uveal melanoma,dbscan
+TCGA-ER-A2NF-06,14.0,skin cutaneous melanoma,uveal melanoma,dbscan
+TCGA-ER-A3ES-06,14.0,skin cutaneous melanoma,uveal melanoma,dbscan
+TCGA-RP-A690-06,14.0,skin cutaneous melanoma,uveal melanoma,dbscan
+TCGA-RP-A6K9-06,14.0,skin cutaneous melanoma,uveal melanoma,dbscan
+TCGA-CV-6938-11,6.0,head & neck squamous cell carcinoma,skin cutaneous melanoma,dbscan
+TCGA-MT-A7BN-01,16.0,head & neck squamous cell carcinoma,breast invasive carcinoma,dbscan
+TCGA-2Z-A9JK-01,21.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,dbscan
+TCGA-4A-A93Y-01,21.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,dbscan
+TCGA-5P-A9JV-01,21.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,dbscan
+TCGA-AL-3473-01,21.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,dbscan
+TCGA-BQ-5892-01,21.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,dbscan
+TCGA-WN-A9G9-01,21.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,dbscan
+TCGA-H6-A45N-11,6.0,pancreatic adenocarcinoma,skin cutaneous melanoma,dbscan
+TCGA-3B-A9HJ-01,6.0,sarcoma,skin cutaneous melanoma,dbscan
+TCGA-QQ-A8VG-01,6.0,sarcoma,skin cutaneous melanoma,dbscan
+TCGA-RN-A68Q-01,6.0,sarcoma,skin cutaneous melanoma,dbscan
+TCGA-RN-AAAQ-01,6.0,sarcoma,skin cutaneous melanoma,dbscan
+TCGA-SI-A71P-01,6.0,sarcoma,skin cutaneous melanoma,dbscan
+TCGA-PN-A8M9-01,27.0,cervical & endocervical cancer,breast invasive carcinoma,dbscan
+TCGA-85-A4PA-01,6.0,lung squamous cell carcinoma,skin cutaneous melanoma,dbscan
+TCGA-G5-6572-02,29.0,rectum adenocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-6D-AA2E-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-A3-3313-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-A3-3363-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-AK-3456-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-AS-3777-01,29.0,kidney clear cell carcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-B0-5084-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-B0-5098-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-B0-5697-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-B0-5707-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-B2-4098-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-B4-5835-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-B8-4621-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-B8-5546-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-B8-A54E-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-BP-4756-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-CJ-5681-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-CW-6087-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-T7-A92I-01,19.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,dbscan
+TCGA-A2-A3XW-01,6.0,breast invasive carcinoma,skin cutaneous melanoma,dbscan
+TCGA-BH-A1ES-06,29.0,breast invasive carcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-28-5218-01,6.0,glioblastoma multiforme,skin cutaneous melanoma,dbscan
+TCGA-P5-A5F6-01,14.0,brain lower grade glioma,uveal melanoma,dbscan
+TCGA-55-7816-01,35.0,lung adenocarcinoma,mesothelioma,dbscan
+TCGA-P8-A5KC-11,0.0,pheochromocytoma & paraganglioma,adrenocortical cancer,dbscan
+TCGA-P8-A5KD-11,0.0,pheochromocytoma & paraganglioma,adrenocortical cancer,dbscan
+TCGA-SQ-A6I4-11,0.0,pheochromocytoma & paraganglioma,adrenocortical cancer,dbscan
+TCGA-TT-A6YO-01,0.0,pheochromocytoma & paraganglioma,adrenocortical cancer,dbscan
+TCGA-X7-A8D6-11,30.0,thymoma,breast invasive carcinoma,dbscan
+TCGA-XM-A8R8-01,6.0,thymoma,skin cutaneous melanoma,dbscan
+TCGA-3X-AAVA-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-3X-AAVE-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-4G-AAZO-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-4G-AAZT-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2G-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2H-01,6.0,cholangiocarcinoma,skin cutaneous melanoma,dbscan
+TCGA-W5-AA2I-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2I-11,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2O-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2Q-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2Q-11,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2R-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2R-11,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2T-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2U-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2U-11,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2W-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2X-11,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA2Z-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA30-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA30-11,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA31-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA31-11,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA33-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA34-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA34-11,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA36-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA38-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W5-AA39-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-W6-AA0S-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-WD-A7RX-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-YR-A95A-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-ZD-A8I3-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-ZH-A8Y1-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-ZH-A8Y2-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-ZH-A8Y4-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-ZH-A8Y5-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-ZH-A8Y6-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-ZH-A8Y8-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-ZU-A8S4-01,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-ZU-A8S4-11,29.0,cholangiocarcinoma,liver hepatocellular carcinoma,dbscan
+TCGA-D1-A16J-01,26.0,uterine corpus endometrioid carcinoma,cervical & endocervical cancer,dbscan
+TCGA-IG-A4QT-01,6.0,esophageal carcinoma,skin cutaneous melanoma,dbscan
+TCGA-LN-A49V-01,27.0,esophageal carcinoma,breast invasive carcinoma,dbscan
+TCGA-CD-8531-01,8.0,stomach adenocarcinoma,diffuse large B-cell lymphoma,dbscan
+TCGA-2E-A9G8-01,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-AJ-A3NH-11,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-AJ-A3TW-01,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-AX-A2HD-11,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-AX-A3G3-01,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-DI-A2QY-11,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-KJ-A3U4-01,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-KP-A3VZ-01,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-3N-A9WD-06,15.0,skin cutaneous melanoma,breast invasive carcinoma,gmm_bic
+TCGA-CV-6933-11,15.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm_bic
+TCGA-CV-7178-11,15.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm_bic
+TCGA-CV-7235-11,15.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm_bic
+TCGA-CV-7432-11,15.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm_bic
+TCGA-CV-7434-11,15.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm_bic
+TCGA-MT-A7BN-01,5.0,head & neck squamous cell carcinoma,breast invasive carcinoma,gmm_bic
+TCGA-A4-7287-01,14.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,gmm_bic
+TCGA-B3-4104-01,14.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,gmm_bic
+TCGA-HE-7130-01,14.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,gmm_bic
+TCGA-J7-A8I2-01,14.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,gmm_bic
+TCGA-PN-A8M9-01,15.0,cervical & endocervical cancer,breast invasive carcinoma,gmm_bic
+TCGA-VS-A9UH-01,14.0,cervical & endocervical cancer,bladder urothelial carcinoma,gmm_bic
+TCGA-21-1078-01,14.0,lung squamous cell carcinoma,bladder urothelial carcinoma,gmm_bic
+TCGA-56-8201-01,14.0,lung squamous cell carcinoma,bladder urothelial carcinoma,gmm_bic
+TCGA-G5-6572-02,10.0,rectum adenocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-AS-3777-01,10.0,kidney clear cell carcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-NA-A4R0-01,16.0,uterine carcinosarcoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-X7-A8D6-11,15.0,thymoma,breast invasive carcinoma,gmm_bic
+TCGA-3X-AAVA-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-3X-AAVE-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-4G-AAZO-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-4G-AAZT-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2G-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2I-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2I-11,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2O-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2Q-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2Q-11,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2R-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2R-11,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2T-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2U-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2U-11,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2W-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2X-11,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA2Z-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA30-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA30-11,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA31-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA31-11,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA33-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA34-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA34-11,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA36-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA38-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W5-AA39-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-W6-AA0S-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-WD-A7RX-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-YR-A95A-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-ZD-A8I3-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-ZH-A8Y1-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-ZH-A8Y2-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-ZH-A8Y4-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-ZH-A8Y5-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-ZH-A8Y6-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-ZH-A8Y8-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-ZU-A8S4-01,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-ZU-A8S4-11,10.0,cholangiocarcinoma,liver hepatocellular carcinoma,gmm_bic
+TCGA-AJ-A2QL-11,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-AX-A1CF-11,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-AX-A1CI-11,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-AX-A1CK-11,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-AX-A2HA-11,16.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,gmm_bic
+TCGA-LN-A49V-01,15.0,esophageal carcinoma,breast invasive carcinoma,gmm_bic
+TCGA-VR-A8Q7-01,14.0,esophageal carcinoma,bladder urothelial carcinoma,gmm_bic
+TCGA-BR-A4IY-01,14.0,stomach adenocarcinoma,bladder urothelial carcinoma,gmm_bic
+TCGA-BT-A20V-01,53.0,bladder urothelial carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-BT-A42F-01,53.0,bladder urothelial carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-DK-A3WY-01,21.0,bladder urothelial carcinoma,skin cutaneous melanoma,hdbscan
+TCGA-DK-A6B5-01,53.0,bladder urothelial carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-DK-AA6T-01,21.0,bladder urothelial carcinoma,skin cutaneous melanoma,hdbscan
+TCGA-E5-A4TZ-01,53.0,bladder urothelial carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-K4-A3WV-01,58.0,bladder urothelial carcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-XF-A9SI-01,27.0,bladder urothelial carcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-2E-A9G8-01,37.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,hdbscan
+TCGA-AJ-A3TW-01,37.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,hdbscan
+TCGA-AX-A3G3-01,37.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,hdbscan
+TCGA-BK-A139-02,37.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,hdbscan
+TCGA-D1-A3JP-01,27.0,uterine corpus endometrioid carcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-KJ-A3U4-01,37.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,hdbscan
+TCGA-KP-A3VZ-01,37.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,hdbscan
+TCGA-SL-A6J9-01,37.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,hdbscan
+TCGA-3N-A9WD-06,22.0,skin cutaneous melanoma,breast invasive carcinoma,hdbscan
+TCGA-BF-AAP8-01,15.0,skin cutaneous melanoma,uveal melanoma,hdbscan
+TCGA-ER-A2NF-06,14.0,skin cutaneous melanoma,uveal melanoma,hdbscan
+TCGA-ER-A3ES-06,14.0,skin cutaneous melanoma,uveal melanoma,hdbscan
+TCGA-RP-A690-06,14.0,skin cutaneous melanoma,uveal melanoma,hdbscan
+TCGA-RP-A6K9-06,15.0,skin cutaneous melanoma,uveal melanoma,hdbscan
+TCGA-BB-A6UM-01,53.0,head & neck squamous cell carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-CN-6023-01,58.0,head & neck squamous cell carcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-CV-6933-11,22.0,head & neck squamous cell carcinoma,breast invasive carcinoma,hdbscan
+TCGA-CV-6938-11,21.0,head & neck squamous cell carcinoma,skin cutaneous melanoma,hdbscan
+TCGA-CV-7178-11,22.0,head & neck squamous cell carcinoma,breast invasive carcinoma,hdbscan
+TCGA-CV-7235-11,22.0,head & neck squamous cell carcinoma,breast invasive carcinoma,hdbscan
+TCGA-CV-7418-01,58.0,head & neck squamous cell carcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-CV-7424-01,58.0,head & neck squamous cell carcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-CV-7432-11,22.0,head & neck squamous cell carcinoma,breast invasive carcinoma,hdbscan
+TCGA-CV-7434-11,22.0,head & neck squamous cell carcinoma,breast invasive carcinoma,hdbscan
+TCGA-CV-A45W-01,58.0,head & neck squamous cell carcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-HL-7533-01,53.0,head & neck squamous cell carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-MT-A7BN-01,23.0,head & neck squamous cell carcinoma,breast invasive carcinoma,hdbscan
+TCGA-P3-A5QF-01,53.0,head & neck squamous cell carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-P3-A6SW-01,53.0,head & neck squamous cell carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-P3-A6T6-01,53.0,head & neck squamous cell carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-QK-A8Z7-01,58.0,head & neck squamous cell carcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-TN-A7HL-01,53.0,head & neck squamous cell carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-2Z-A9JK-01,11.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,hdbscan
+TCGA-4A-A93Y-01,11.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,hdbscan
+TCGA-5P-A9JV-01,11.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,hdbscan
+TCGA-A4-7287-01,49.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,hdbscan
+TCGA-AL-3473-01,11.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,hdbscan
+TCGA-B3-4104-01,49.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,hdbscan
+TCGA-BQ-5892-01,11.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,hdbscan
+TCGA-HE-7130-01,49.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,hdbscan
+TCGA-J7-A8I2-01,49.0,kidney papillary cell carcinoma,bladder urothelial carcinoma,hdbscan
+TCGA-WN-A9G9-01,11.0,kidney papillary cell carcinoma,kidney clear cell carcinoma,hdbscan
+TCGA-2J-AABI-01,59.0,pancreatic adenocarcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-H6-A45N-11,21.0,pancreatic adenocarcinoma,skin cutaneous melanoma,hdbscan
+TCGA-3B-A9HJ-01,21.0,sarcoma,skin cutaneous melanoma,hdbscan
+TCGA-QQ-A8VG-01,21.0,sarcoma,skin cutaneous melanoma,hdbscan
+TCGA-RN-A68Q-01,21.0,sarcoma,skin cutaneous melanoma,hdbscan
+TCGA-RN-AAAQ-01,21.0,sarcoma,skin cutaneous melanoma,hdbscan
+TCGA-SI-A71P-01,21.0,sarcoma,skin cutaneous melanoma,hdbscan
+TCGA-2W-A8YY-01,43.0,cervical & endocervical cancer,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-C5-A2LX-01,50.0,cervical & endocervical cancer,head & neck squamous cell carcinoma,hdbscan
+TCGA-FU-A3TX-01,50.0,cervical & endocervical cancer,head & neck squamous cell carcinoma,hdbscan
+TCGA-HM-A6W2-01,43.0,cervical & endocervical cancer,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-HM-A6W2-06,43.0,cervical & endocervical cancer,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-IR-A3LA-01,43.0,cervical & endocervical cancer,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-PN-A8M9-01,20.0,cervical & endocervical cancer,breast invasive carcinoma,hdbscan
+TCGA-VS-A94W-01,50.0,cervical & endocervical cancer,head & neck squamous cell carcinoma,hdbscan
+TCGA-VS-A9UJ-01,43.0,cervical & endocervical cancer,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-VS-A9V0-01,43.0,cervical & endocervical cancer,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-AY-6196-01,27.0,colon adenocarcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-AZ-6607-01,27.0,colon adenocarcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-F4-6703-01,27.0,colon adenocarcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-21-1078-01,49.0,lung squamous cell carcinoma,bladder urothelial carcinoma,hdbscan
+TCGA-22-1005-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-22-1017-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-22-4596-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-37-3792-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-37-4129-01,27.0,lung squamous cell carcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-39-5011-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-43-2581-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-43-5668-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-46-3769-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-52-7812-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-60-2714-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-63-6202-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-63-A5MN-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-6A-AB49-01,53.0,lung squamous cell carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-77-8007-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-85-A4PA-01,21.0,lung squamous cell carcinoma,skin cutaneous melanoma,hdbscan
+TCGA-85-A513-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-NC-A5HK-01,53.0,lung squamous cell carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-O2-A52Q-01,36.0,lung squamous cell carcinoma,lung adenocarcinoma,hdbscan
+TCGA-6D-AA2E-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-A3-3313-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-A3-3363-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-AK-3456-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-AS-3777-01,19.0,kidney clear cell carcinoma,liver hepatocellular carcinoma,hdbscan
+TCGA-B0-5084-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-B0-5098-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-B0-5697-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-B0-5707-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-B2-4098-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-B4-5835-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-B8-4621-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-B8-5546-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-B8-A54E-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-BP-4756-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-CJ-5681-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-CW-6087-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-T7-A92I-01,4.0,kidney clear cell carcinoma,kidney papillary cell carcinoma,hdbscan
+TCGA-CC-A9FV-01,28.0,liver hepatocellular carcinoma,sarcoma,hdbscan
+TCGA-DD-A3A6-01,28.0,liver hepatocellular carcinoma,sarcoma,hdbscan
+TCGA-AR-A0U1-01,43.0,breast invasive carcinoma,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-N6-A4VF-01,43.0,uterine carcinosarcoma,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-N9-A4Q7-01,42.0,uterine carcinosarcoma,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-NA-A4R0-01,37.0,uterine carcinosarcoma,ovarian serous cystadenocarcinoma,hdbscan
+TCGA-28-5218-01,21.0,glioblastoma multiforme,skin cutaneous melanoma,hdbscan
+TCGA-P5-A5F6-01,15.0,brain lower grade glioma,uveal melanoma,hdbscan
+TCGA-44-5643-01,59.0,lung adenocarcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-55-7726-01,59.0,lung adenocarcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-55-7816-01,30.0,lung adenocarcinoma,mesothelioma,hdbscan
+TCGA-55-8204-01,59.0,lung adenocarcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-55-8614-01,59.0,lung adenocarcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-75-6214-01,59.0,lung adenocarcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-P8-A5KC-11,5.0,pheochromocytoma & paraganglioma,adrenocortical cancer,hdbscan
+TCGA-P8-A5KD-11,5.0,pheochromocytoma & paraganglioma,adrenocortical cancer,hdbscan
+TCGA-QT-A5XJ-01,27.0,pheochromocytoma & paraganglioma,pancreatic adenocarcinoma,hdbscan
+TCGA-SQ-A6I4-11,5.0,pheochromocytoma & paraganglioma,adrenocortical cancer,hdbscan
+TCGA-TT-A6YO-01,5.0,pheochromocytoma & paraganglioma,adrenocortical cancer,hdbscan
+TCGA-X7-A8D6-11,22.0,thymoma,breast invasive carcinoma,hdbscan
+TCGA-XM-A8R8-01,21.0,thymoma,skin cutaneous melanoma,hdbscan
+TCGA-3X-AAV9-01,27.0,cholangiocarcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-3X-AAVB-01,27.0,cholangiocarcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-W5-AA2H-01,21.0,cholangiocarcinoma,skin cutaneous melanoma,hdbscan
+TCGA-W5-AA39-01,19.0,cholangiocarcinoma,liver hepatocellular carcinoma,hdbscan
+TCGA-IC-A6RF-01,51.0,esophageal carcinoma,head & neck squamous cell carcinoma,hdbscan
+TCGA-D1-A16J-01,29.0,uterine corpus endometrioid carcinoma,cervical & endocervical cancer,hdbscan
+TCGA-FI-A2CY-01,37.0,uterine corpus endometrioid carcinoma,ovarian serous cystadenocarcinoma,hdbscan
+TCGA-61-2092-01,43.0,ovarian serous cystadenocarcinoma,uterine corpus endometrioid carcinoma,hdbscan
+TCGA-IG-A4QT-01,21.0,esophageal carcinoma,skin cutaneous melanoma,hdbscan
+TCGA-LN-A49V-01,20.0,esophageal carcinoma,breast invasive carcinoma,hdbscan
+TCGA-V5-A7RC-06,58.0,esophageal carcinoma,lung squamous cell carcinoma,hdbscan
+TCGA-V5-AASV-01,51.0,esophageal carcinoma,head & neck squamous cell carcinoma,hdbscan
+TCGA-CD-8531-01,17.0,stomach adenocarcinoma,diffuse large B-cell lymphoma,hdbscan
+TCGA-D7-6519-01,27.0,stomach adenocarcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-D7-A748-01,27.0,stomach adenocarcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-BR-4294-01,27.0,stomach adenocarcinoma,pancreatic adenocarcinoma,hdbscan
+TCGA-MT-A7BN-01,8.0,head & neck squamous cell carcinoma,breast invasive carcinoma,hierarchical
+TCGA-PN-A8M9-01,8.0,cervical & endocervical cancer,breast invasive carcinoma,hierarchical
+TCGA-W5-AA2I-11,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical
+TCGA-W5-AA2Q-11,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical
+TCGA-W5-AA2R-11,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical
+TCGA-W5-AA2U-11,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical
+TCGA-W5-AA2X-11,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical
+TCGA-W5-AA30-11,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical
+TCGA-W5-AA31-11,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical
+TCGA-W5-AA34-11,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical
+TCGA-W5-AA39-01,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical
+TCGA-ZU-A8S4-11,13.0,cholangiocarcinoma,liver hepatocellular carcinoma,hierarchical

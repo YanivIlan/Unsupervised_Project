@@ -1,0 +1,98 @@
+Algorithm,TrueType,MisdiagnosedCount
+dbscan,cholangiocarcinoma,41
+dbscan,kidney clear cell carcinoma,18
+dbscan,kidney papillary cell carcinoma,6
+dbscan,sarcoma,5
+dbscan,skin cutaneous melanoma,5
+dbscan,pheochromocytoma & paraganglioma,4
+dbscan,bladder urothelial carcinoma,2
+dbscan,breast invasive carcinoma,2
+dbscan,esophageal carcinoma,2
+dbscan,head & neck squamous cell carcinoma,2
+dbscan,thymoma,2
+dbscan,brain lower grade glioma,1
+dbscan,cervical & endocervical cancer,1
+dbscan,glioblastoma multiforme,1
+dbscan,lung adenocarcinoma,1
+dbscan,lung squamous cell carcinoma,1
+dbscan,pancreatic adenocarcinoma,1
+dbscan,rectum adenocarcinoma,1
+dbscan,stomach adenocarcinoma,1
+dbscan,uterine corpus endometrioid carcinoma,1
+gmm,cholangiocarcinoma,41
+gmm,uterine corpus endometrioid carcinoma,24
+gmm,kidney clear cell carcinoma,18
+gmm,kidney papillary cell carcinoma,10
+gmm,head & neck squamous cell carcinoma,7
+gmm,skin cutaneous melanoma,6
+gmm,sarcoma,5
+gmm,pheochromocytoma & paraganglioma,4
+gmm,cervical & endocervical cancer,3
+gmm,esophageal carcinoma,3
+gmm,lung squamous cell carcinoma,3
+gmm,bladder urothelial carcinoma,2
+gmm,stomach adenocarcinoma,2
+gmm,thymoma,2
+gmm,brain lower grade glioma,1
+gmm,glioblastoma multiforme,1
+gmm,pancreatic adenocarcinoma,1
+gmm,rectum adenocarcinoma,1
+gmm,uterine carcinosarcoma,1
+gmm_bic,cholangiocarcinoma,40
+gmm_bic,uterine corpus endometrioid carcinoma,13
+gmm_bic,head & neck squamous cell carcinoma,6
+gmm_bic,kidney papillary cell carcinoma,4
+gmm_bic,cervical & endocervical cancer,2
+gmm_bic,esophageal carcinoma,2
+gmm_bic,lung squamous cell carcinoma,2
+gmm_bic,kidney clear cell carcinoma,1
+gmm_bic,rectum adenocarcinoma,1
+gmm_bic,skin cutaneous melanoma,1
+gmm_bic,stomach adenocarcinoma,1
+gmm_bic,thymoma,1
+gmm_bic,uterine carcinosarcoma,1
+hdbscan,lung squamous cell carcinoma,20
+hdbscan,head & neck squamous cell carcinoma,18
+hdbscan,kidney clear cell carcinoma,18
+hdbscan,cervical & endocervical cancer,10
+hdbscan,kidney papillary cell carcinoma,10
+hdbscan,uterine corpus endometrioid carcinoma,10
+hdbscan,bladder urothelial carcinoma,8
+hdbscan,lung adenocarcinoma,6
+hdbscan,skin cutaneous melanoma,6
+hdbscan,esophageal carcinoma,5
+hdbscan,pheochromocytoma & paraganglioma,5
+hdbscan,sarcoma,5
+hdbscan,cholangiocarcinoma,4
+hdbscan,stomach adenocarcinoma,4
+hdbscan,colon adenocarcinoma,3
+hdbscan,uterine carcinosarcoma,3
+hdbscan,liver hepatocellular carcinoma,2
+hdbscan,pancreatic adenocarcinoma,2
+hdbscan,thymoma,2
+hdbscan,brain lower grade glioma,1
+hdbscan,breast invasive carcinoma,1
+hdbscan,glioblastoma multiforme,1
+hdbscan,ovarian serous cystadenocarcinoma,1
+hierarchical,cholangiocarcinoma,10
+hierarchical,cervical & endocervical cancer,1
+hierarchical,head & neck squamous cell carcinoma,1
+kmeans,cholangiocarcinoma,41
+kmeans,uterine corpus endometrioid carcinoma,23
+kmeans,kidney clear cell carcinoma,18
+kmeans,kidney papillary cell carcinoma,10
+kmeans,head & neck squamous cell carcinoma,7
+kmeans,skin cutaneous melanoma,6
+kmeans,sarcoma,5
+kmeans,pheochromocytoma & paraganglioma,4
+kmeans,bladder urothelial carcinoma,2
+kmeans,cervical & endocervical cancer,2
+kmeans,esophageal carcinoma,2
+kmeans,lung squamous cell carcinoma,2
+kmeans,thymoma,2
+kmeans,brain lower grade glioma,1
+kmeans,glioblastoma multiforme,1
+kmeans,pancreatic adenocarcinoma,1
+kmeans,rectum adenocarcinoma,1
+kmeans,stomach adenocarcinoma,1
+kmeans,uterine carcinosarcoma,1
