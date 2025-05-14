@@ -94,10 +94,6 @@ def filter_top_genes(path, compression, top_genes, chunksize=CHUNK_SIZE):
         dfs.append(chunk.loc[chunk.index.intersection(top_genes)])
     return pd.concat(dfs)
 
-# ─────────────────────────────────────────────────────────────────────────────
-# MAIN PIPELINE
-# ─────────────────────────────────────────────────────────────────────────────
-
 
 def prepare_tcga_pancan_old():
     print("Loading from:", DATA_PATH, "(compression =", COMPRESSION, ")")
@@ -569,7 +565,6 @@ def plot_heatmaps(results):
                                 mat[i, j] = vals[(d, k, mode)]
                                 break   # stop at first match
 
-            # ---- draw --------------------------------------------------------
             plt.figure(figsize=(8, 6))
             sns.heatmap(mat,
                         xticklabels=xlabels,
